@@ -1,9 +1,17 @@
 [TOC]
-# 安全项目分类清单
 ## 技术能力
 ### 渗透测试
-https://github.com/r35tart/Penetration_Testing_Case
+渗透测试案例：https://github.com/r35tart/Penetration_Testing_Case
 ### 代码审计
+#### php安全
+#### js安全
+#### java安全
+p牛星球系列
+
+javasec：https://javasec.org/
+
+java安全入门与经典漏洞：https://github.com/cn-panda/JavaCodeAudit
+
 ### 漏洞挖掘
 ### 安全研究
 ## 工程能力
@@ -23,3 +31,5 @@ cobra：https://github.com/WhaleShark-Team/cobra
 cobra-w：https://github.com/LoRexxar/Cobra-W
 
 rips：https://github.com/ripsscanner/rips
+### 弱口令
+口令爆破字典，有键盘组合字典、拼音字典、字母与数字混合这三种类型：https://github.com/huyuanzhi2/password_brute_dictionary
